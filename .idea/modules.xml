@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../teacher/2020-4-7/.idea/2020-4-7.iml" filepath="$PROJECT_DIR$/../teacher/2020-4-7/.idea/2020-4-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react_client.iml" filepath="$PROJECT_DIR$/.idea/react_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my/4.8/text/.idea/text.iml" filepath="$PROJECT_DIR$/../my/4.8/text/.idea/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text10-2/.idea/text10-2.iml" filepath="$PROJECT_DIR$/../text10-2/.idea/text10-2.iml" />
+    </modules>
+  </component>
+</project>

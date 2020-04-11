@@ -1,0 +1,26 @@
+.content{
+    padding: 1.3rem .5rem;
+}
+.content h1{
+    margin-top: .8rem;
+    margin-bottom: .3rem;
+    /*margin-left: .5rem;*/
+    font-weight: 100;
+    font-size: .6rem;
+}
+.login-box{
+    font-size: .3rem;
+    color: #92979E;
+    /*margin-left: .5rem;*/
+    margin-bottom: 1rem;
+}
+.login-box a{
+    color: #F75210;
+}
+
+.errcol{
+    /*margin-left: .5rem;*/
+    color: red;
+    font-size: .3rem;
+}
+.tishi{width:1.4rem; font-size:0.25rem; margin-top:0.28rem; display:block;}

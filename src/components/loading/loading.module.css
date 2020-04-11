@@ -1,0 +1,35 @@
+.loading{
+   z-index: 11111;
+    /*border:1px solid black;*/
+    /*position: relative;*/
+}
+
+.loading::before,.loading::after{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #000;
+    border-radius: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    animation: s 1.5s linear infinite;  /*加上s状态，状态开始到结束为1.5s*/
+}
+
+.loading::after{
+    animation-delay: 0.75s;     /*第二个圆出现的时间*/
+}
+
+@keyframes s{
+    0%{             /*初始状态*/
+        width: 0px;
+        height: 0px;
+        opacity: 1; /*透明度*/
+    }
+    100%{           /*结束状态*/
+        width: 100px;
+        height: 100px;
+        opacity: 0;
+    }
+}

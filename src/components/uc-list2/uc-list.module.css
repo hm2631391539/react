@@ -1,0 +1,23 @@
+	.Olist {
+		width: 100%;
+	}
+	.Olist p {
+		box-sizing: border-box;
+		padding: 10px;
+	}
+	.Olist img {
+		width: 100%;
+
+	}
+	.Olist span {
+		display: inline-block;
+		font-size: 16px;
+		color: orangered;
+
+		margin: 5px auto;
+	}
+	.Olist strong {
+		font-size: 14px;
+		font-weight: 100;
+		display: inline-block;
+	}

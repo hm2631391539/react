@@ -1,0 +1,31 @@
+	.Olist {
+		/* margin-bottom: .8rem; */
+		padding: 0.1rem 0;
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.Olist p {
+		float: left;
+		width: 50%;
+		box-sizing: border-box;
+		padding: .4rem .2rem;
+	}
+	.Olist img {
+		height: 100%;
+		float: left;
+	}
+	.Olist span {
+		display: inline-block;
+		font-size: 16px;
+		color: orangered;
+		font-weight: 600;
+		text-indent: 13px;
+		margin: 5px auto;
+	}
+	.Olist strong {
+		font-size: 14px;
+		font-weight: 100;
+		display: inline-block;
+		text-indent: 13px;
+	}

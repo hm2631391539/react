@@ -1,0 +1,36 @@
+.content{
+    margin: 1.3rem .5rem;
+}
+.content h1 {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: #99CC99;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 1.5rem;
+    font-weight: 100;
+    font-size: .3rem;
+    margin: 0 auto;
+    margin-top: .4rem;
+    color: red;
+}
+.content h2{
+    margin-top: .5rem;
+    margin-bottom: .3rem;
+    font-weight: 100;
+    font-size: .4rem;
+}
+.login-box{
+    font-size: .3rem;
+    color: #92979E;
+    margin-bottom: .3rem;
+}
+.login-box a{
+    color: #F75210;
+}
+
+.errcol{
+    color: red;
+    font-size: .3rem;
+}
+.tishi{width:1.4rem; font-size:0.25rem; margin-top:0.28rem; display:block;}

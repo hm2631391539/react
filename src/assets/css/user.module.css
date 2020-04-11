@@ -1,0 +1,115 @@
+
+/*-----------------*/
+.content{
+    padding:.1rem .3rem;
+    background-color: #F8F8F8;
+}
+.usernav{
+    height: 0.8rem;
+    font-size: .5rem;
+    padding-top: .15rem;
+}
+.usernav button{
+    color: #ffffff;
+    float: right;
+    background: #e84a7e;
+}
+.usernav i:nth-child(1){
+    float: left;
+    margin-left: 0rem;
+}
+.header{
+    height: 1rem;
+    width: 100%;
+    padding: .3rem 0;
+}
+.header h2 {
+    float: left;
+    width: 1.02rem;
+    height: 1.02rem;
+    border-radius: 50%;
+}
+.header h2 img {
+
+    width: 100%;
+    height: 0.8rem;
+    margin-left: 28px;
+    margin-top: 0.1rem
+}
+.header p{
+    float: left;
+    margin-left: 1.3rem;
+    line-height: 1rem;font-size: .3rem;
+    font-weight: 600;
+}
+.listbox{
+    border-radius: .4rem;
+    background-color:#fff;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: .2rem 0 .3rem;
+    font-size: .25rem;
+}
+.listbox li span{
+    font-weight: 600;
+    color: red;
+}
+.listbox li p{
+    color: #999;
+    padding-top: .1rem;
+}
+.docList{
+    background-color: #FFFFFF;
+}
+.tit{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .2rem 0;
+    border-bottom: 1px solid #333;
+}
+.tit h3{
+
+    font-size: .35rem;
+    font-weight: 100;
+}
+.tit p{
+    font-size: .25rem;
+    color:#999 ;
+}
+
+.list1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding-top: .2rem;
+    font-size: .24rem;
+}
+/*.list1 li i{*/
+/*    font-size: .6rem;*/
+/*    color: palevioletred;*/
+/*    padding-bottom: .15rem;*/
+/*}*/
+.list1 li i img{
+    width: .8rem;
+    color: palevioletred;
+    /*padding-bottom: .15rem;*/
+}
+.list1 li p{
+    color: #999;
+}
+.list2{
+    flex-wrap: wrap;
+}
+.list2 li{
+    width: 1.3rem;
+    height: 1.3rem;
+}
+.list2 li i{
+    color: #99A9BF;
+}
+.list2 li p{
+    color: #000;
+}
